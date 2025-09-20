@@ -1,4 +1,4 @@
-[untitled.webm](https://github.com/user-attachments/assets/b511445c-80fb-4687-8f80-24076ddd7ce9)# FakeAPI Movie App
+# FakeAPI Movie App
 
 FakeAPI kullanarak bir Login ve Register sistemi kurdum. Yine FakeAPI ile filmlerin isimlerini / Fotoğraflarını / Açıklamaları gibi API'den gelen bilgileri kullandım.
 

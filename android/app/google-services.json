@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "49747168384",
+    "project_id": "flutter-push-app-59b0b",
+    "storage_bucket": "flutter-push-app-59b0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49747168384:android:605debcab88c0b8cacaa65",
+        "android_client_info": {
+          "package_name": "com.example.movie_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5zsSvNdv3YCQCdnn4qtDJ-RNB3NY1_Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49747168384:android:9e29fa185673bbd9acaa65",
+        "android_client_info": {
+          "package_name": "com.example.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5zsSvNdv3YCQCdnn4qtDJ-RNB3NY1_Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

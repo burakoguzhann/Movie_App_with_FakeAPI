@@ -1,6 +1,7 @@
 # FakeAPI Movie App
 
 FakeAPI kullanarak bir Login ve Register sistemi kurdum. Yine FakeAPI ile filmlerin isimlerini / Fotoğraflarını / Açıklamaları gibi API'den gelen bilgileri kullandım.
+Yapay zeka ile bir php dosyası oluşturdum ve bir VDS satın alarak php dosyasını oraya koydum. Flutter ile bu VDS'in IP'sıne http.post ile istek atarak uygulamaya giriş yapan kullanıcının token'i otomatik olarak gidiyor. VDS tarafında php'yi harekete geçirerek bir Push Notification / Bildirim gönderme sistemi kurdum.
 
 ## Kullanılan Teknolojiler
 
@@ -8,6 +9,7 @@ MVVM kullanılarak bir mimari oluşturuldu.
 API ile Login / Register sistemi kuruldu.
 API ile filmlerin listelenmesi, açıklaması, resimleri gösterildi.
 State Managment olarak Provider kullanıldı.
+PHP üzerinden ve Firebase SDK ile Push Notification kuruldu. 
 
 
 
